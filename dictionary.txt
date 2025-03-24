@@ -1,0 +1,10 @@
+password
+password123
+123456
+qwerty
+adminpass
+secret
+test
+apple
+banana
+orange
