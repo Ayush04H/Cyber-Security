@@ -2,7 +2,7 @@ import requests  # For making HTTP requests
 import time      # For simulating delays
 
 TARGET_URL = "http://127.0.0.1:5000/"  # URL of the vulnerable web application
-USERNAME_TO_ATTACK = "admin"       # Username to target
+USERNAME_TO_ATTACK = "testuser"       # Username to target
 DICTIONARY_FILE = "dictionary.txt"    # Dictionary file for passwords
 
 def perform_online_attack(target_url, username, dictionary_file):
